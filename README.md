@@ -16,12 +16,5 @@ This approach can help reduce misinformation and improve trust in online informa
 •  It contains news articles with their title, full text content, and whether the article is fake or real.
 •  The dataset has 3 main columns and contains multiple rows of different news samples.
 
-> Dataset Columns:
-  ColumnName	     Description
-  title	         Headline of the news article
-  text	         Full article / body text describing the news
-  label	         Target class – indicates if the news is fake or real
-  >Target Variable:
-    Label	Meaning
-      1	Fake News
-      0	Real News
+
+     
