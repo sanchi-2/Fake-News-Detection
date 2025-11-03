@@ -15,6 +15,7 @@ This approach can help reduce misinformation and improve trust in online informa
 •  The dataset is in CSV format.
 •  It contains news articles with their title, full text content, and whether the article is fake or real.
 •  The dataset has 3 main columns and contains multiple rows of different news samples.
+
 > Dataset Columns:
   ColumnName	     Description
   title	         Headline of the news article
